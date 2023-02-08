@@ -1,9 +1,12 @@
 asttokens==2.2.1
 backcall==0.2.0
 comm==0.1.2
+contourpy==1.0.7
+cycler==0.11.0
 debugpy==1.6.6
 decorator==5.1.1
 executing==1.2.0
+fonttools==4.38.0
 importlib-metadata==6.0.0
 ipykernel==6.21.1
 ipython==8.9.0
@@ -11,7 +14,9 @@ jedi==0.18.2
 joblib==1.2.0
 jupyter_client==8.0.2
 jupyter_core==5.2.0
+kiwisolver==1.4.4
 llvmlite==0.39.1
+matplotlib==3.6.3
 matplotlib-inline==0.1.6
 nest-asyncio==1.5.6
 numba==0.56.4
@@ -21,6 +26,7 @@ pandas==1.5.3
 parso==0.8.3
 pexpect==4.8.0
 pickleshare==0.7.5
+Pillow==9.4.0
 platformdirs==3.0.0
 prompt-toolkit==3.0.36
 psutil==5.9.4
@@ -28,6 +34,7 @@ ptyprocess==0.7.0
 pure-eval==0.2.2
 Pygments==2.14.0
 pynndescent==0.5.8
+pyparsing==3.0.9
 python-dateutil==2.8.2
 pytz==2022.7.1
 pyzmq==25.0.0
